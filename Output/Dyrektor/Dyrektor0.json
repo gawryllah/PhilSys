@@ -1,0 +1,12 @@
+{
+  "rodzaj": "Glowny",
+  "login": "testDyr1",
+  "pwd": "testDyr1",
+  "address": "testDyr1",
+  "phNum": "testDyr1",
+  "toe": "Pracownik",
+  "pesel": "0000000",
+  "name": "testDyr1",
+  "surName": "testDyr1",
+  "dob": "2022-09-20T00:00:00+02:00"
+}
